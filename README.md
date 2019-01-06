@@ -24,6 +24,13 @@ An accesslog parser supports apache log (common and combined) and ltsv accesslog
   - Combined log format with extra fields
 - LTSV Accesslog format according to http://ltsv.org
 
+## Getting Started
+1. Obtain access to a compatible server (there are many)
+2. ### and then type MAKE in terminal and hit enter
+3. ### and then type BUILD in terminal and hit enter (idk)
+
+
+
 ## Author
 
 [Songmu](https://github.com/Songmu)
